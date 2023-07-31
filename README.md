@@ -37,7 +37,8 @@ CADA  RUTA TIENE  4 ENPOINT  GET , POST, PUT Y DELETE
 ************************************************
 
 ESTA API LA CONSUME EN UNA APP EN REACT PARA EL FRONTED
-porfavor ver el 
+tambien despliegada en VERCEL 
+https://veterinaria-woad.vercel.app/
 
 REPOSITORIO
 
