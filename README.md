@@ -42,13 +42,17 @@ porfavor ver el
 REPOSITORIO
 
 
-
-
 ********************************************************
 PUEDE EJECUTAR EL SIGUIENTE COMANDO  PARA VER TODAS LAS RUTAS
 php artisan route:list 
 
 **************************************
-PORFAVOR VER EL ARCHIVO  ROUTES/API.PHP 
+PORFAVOR VER EL ARCHIVO  
+
+ROUTES/API.PHP 
 Y VER ARCHIVO CONSUMIR.MD
 *******************************************
+PORFAVOR REVISAR LA CARPETA
+
+app/Http/Controllers/
+
